@@ -1,0 +1,10 @@
+[general]
+name=Batch Convert GeoJSON To SQL
+description=Convert GeoJSON files into SQL Dump
+version=1.0.0
+qgisMinimumVersion=3.22
+author=Tanish
+email=tanishcb@gmail.com
+category=Converter
+icon=icon.svg
+hasProcessingProvider=yes
